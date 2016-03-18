@@ -45,4 +45,5 @@ group :development do
   gem 'spring'
   gem 'simple_form'
   gem 'kaminari'
+  gem 'filterrific'
 end

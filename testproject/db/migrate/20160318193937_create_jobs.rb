@@ -4,6 +4,7 @@ class CreateJobs < ActiveRecord::Migration
       t.string :title
       t.string :company
       t.string :url
+      t.float :salary
 
       t.timestamps null: false
     end
